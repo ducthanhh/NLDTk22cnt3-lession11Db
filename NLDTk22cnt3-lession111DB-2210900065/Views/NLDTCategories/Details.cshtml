@@ -1,0 +1,35 @@
+﻿@model NLDTk22cnt3_lession111DB_2210900065.Models.NLDTCategory
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/NLDT2210900065_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NLDTCategory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NLDTCreateName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NLDTCreateName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NLDTStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NLDTStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NLDTid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

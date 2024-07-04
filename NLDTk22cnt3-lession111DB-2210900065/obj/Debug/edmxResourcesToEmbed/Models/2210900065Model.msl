@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NLDTk22cnt3Lession11DbModelStoreContainer" CdmEntityContainer="NLDTk22cnt3Lession11DbEntities">
+    <EntitySetMapping Name="NLDTCategory">
+      <EntityTypeMapping TypeName="NLDTk22cnt3Lession11DbModel.NLDTCategory">
+        <MappingFragment StoreEntitySet="NLDTCategory">
+          <ScalarProperty Name="NLDTid" ColumnName="NLDTid" />
+          <ScalarProperty Name="NLDTCreateName" ColumnName="NLDTCreateName" />
+          <ScalarProperty Name="NLDTStatus" ColumnName="NLDTStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NLDTProduct">
+      <EntityTypeMapping TypeName="NLDTk22cnt3Lession11DbModel.NLDTProduct">
+        <MappingFragment StoreEntitySet="NLDTProduct">
+          <ScalarProperty Name="NLDTid" ColumnName="NLDTid" />
+          <ScalarProperty Name="NLDTProName" ColumnName="NLDTProName" />
+          <ScalarProperty Name="NLDTQty" ColumnName="NLDTQty" />
+          <ScalarProperty Name="NLDTPrice" ColumnName="NLDTPrice" />
+          <ScalarProperty Name="NLDTCateid" ColumnName="NLDTCateid" />
+          <ScalarProperty Name="NLDTActive" ColumnName="NLDTActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

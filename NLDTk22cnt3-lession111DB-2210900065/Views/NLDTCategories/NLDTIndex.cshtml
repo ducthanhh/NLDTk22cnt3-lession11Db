@@ -1,0 +1,56 @@
+﻿@model IEnumerable<NLDTk22cnt3_lession111DB_2210900065.Models.NLDTCategory>
+
+@{
+    ViewBag.Title = "danh muc san pham ";
+    Layout = "~/Views/Shared/NLDT2210900065_Layout.cshtml";
+}
+
+<h2>danh muc san pham </h2>
+
+<p>
+    @*@Html.ActionLink("Create New", "Create")*@
+</p>
+<a href="/NLDTCategories/Create" class="btn btn-primary my-3 ">them moi</a>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTid)
+        </th> 
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTCreateName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTStatus)
+        </th>
+        <th>chuc nang</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTCreateName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTStatus)
+            @if (item.NLDTStatus == true)
+            {
+                <span style="color:green">hoat dong</span>
+            }
+            else
+            {
+                <span style="color:red"> khong hoat dong</span>
+
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NLDTid }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NLDTid }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NLDTid })
+        </td>
+    </tr>
+}
+
+</table>

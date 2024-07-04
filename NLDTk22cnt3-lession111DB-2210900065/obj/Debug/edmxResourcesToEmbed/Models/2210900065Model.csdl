@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NLDTk22cnt3Lession11DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NLDTCategory">
+    <Key>
+      <PropertyRef Name="NLDTid" />
+    </Key>
+    <Property Name="NLDTid" Type="Int32" Nullable="false" />
+    <Property Name="NLDTCreateName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NLDTStatus" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="NLDTProduct">
+    <Key>
+      <PropertyRef Name="NLDTid" />
+    </Key>
+    <Property Name="NLDTid" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NLDTProName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NLDTQty" Type="Int32" />
+    <Property Name="NLDTPrice" Type="Double" />
+    <Property Name="NLDTCateid" Type="Int32" />
+    <Property Name="NLDTActive" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="NLDTk22cnt3Lession11DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NLDTCategory" EntityType="Self.NLDTCategory" />
+    <EntitySet Name="NLDTProduct" EntityType="Self.NLDTProduct" />
+  </EntityContainer>
+</Schema>

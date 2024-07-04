@@ -1,0 +1,74 @@
+﻿@model IEnumerable<NLDTk22cnt3_lession111DB_2210900065.Models.NLDTProduct>
+
+@{
+    ViewBag.Title = "danh sach san pam ";
+    Layout = "~/Views/Shared/NLDT2210900065_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTProName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTQty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTCateid)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.NLDTActive)*@
+            @if (item.NLDTActive == true)
+            {
+                <span style="color:green">hoat dong</span>
+            }
+            else
+            {
+                <span style="color:red"> khong hoat dong</span>
+
+            }
+        </th>
+        <th>chuc nang </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTProName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTQty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTCateid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTActive)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NLDTid }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NLDTid }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NLDTid })
+        </td>
+    </tr>
+}
+
+</table>

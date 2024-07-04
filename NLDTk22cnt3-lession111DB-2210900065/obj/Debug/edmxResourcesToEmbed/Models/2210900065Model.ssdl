@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NLDTk22cnt3Lession11DbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="NLDTCategory">
+    <Key>
+      <PropertyRef Name="NLDTid" />
+    </Key>
+    <Property Name="NLDTid" Type="int" Nullable="false" />
+    <Property Name="NLDTCreateName" Type="nvarchar" MaxLength="50" />
+    <Property Name="NLDTStatus" Type="bit" />
+  </EntityType>
+  <EntityType Name="NLDTProduct">
+    <Key>
+      <PropertyRef Name="NLDTid" />
+    </Key>
+    <Property Name="NLDTid" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NLDTProName" Type="nvarchar" MaxLength="50" />
+    <Property Name="NLDTQty" Type="int" />
+    <Property Name="NLDTPrice" Type="float" />
+    <Property Name="NLDTCateid" Type="int" />
+    <Property Name="NLDTActive" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="NLDTk22cnt3Lession11DbModelStoreContainer">
+    <EntitySet Name="NLDTCategory" EntityType="Self.NLDTCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NLDTProduct" EntityType="Self.NLDTProduct" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

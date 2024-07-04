@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtcategories\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtcategories\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldthome\\nldtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldthome\\nldtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\nldtproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\controllers\\nldtproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\controllers\\nldtproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\models\\2210900065model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\models\\2210900065model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\shared\\nldt2210900065_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\shared\\nldt2210900065_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\models\\nldtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\models\\nldtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\controllers\\nldtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\controllers\\nldtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|d:\\lesssion01\\nldtk22cnt3-lession111db-2210900065\\nldtk22cnt3-lession111db-2210900065\\controllers\\nldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BEC278-82EC-4F28-82DC-87FBA45B1260}|NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065.csproj|solutionrelative:nldtk22cnt3-lession111db-2210900065\\controllers\\nldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Edit.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Edit.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:28:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Create.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Create.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:27:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Delete.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Delete.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:27:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Details.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Details.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\Details.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:27:31.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NLDTProductsController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTProductsController.cs",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTProductsController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTProductsController.cs",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTProductsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwHIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:16:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLDTIndex.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T03:49:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLDTIndex.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\NLDTIndex.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\NLDTIndex.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\NLDTIndex.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTProducts\\NLDTIndex.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:18:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2210900065Model.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Models\\2210900065Model.edmx",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Models\\2210900065Model.edmx",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Models\\2210900065Model.edmx [Diagram1]",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Models\\2210900065Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-04T03:39:47.585Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLDTContact.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTHome\\NLDTContact.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTHome\\NLDTContact.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTHome\\NLDTContact.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\NLDTHome\\NLDTContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T03:25:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:36:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NLDT2210900065_Layout.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\Shared\\NLDT2210900065_Layout.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\Shared\\NLDT2210900065_Layout.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\Shared\\NLDT2210900065_Layout.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\Shared\\NLDT2210900065_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T03:21:30.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NLDTCategoriesController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTCategoriesController.cs",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTCategoriesController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTCategoriesController.cs",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTCategoriesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:46:24.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NLDTCategory.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Models\\NLDTCategory.cs",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Models\\NLDTCategory.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Models\\NLDTCategory.cs",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Models\\NLDTCategory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:59:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T03:22:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NLDTHomeController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTHomeController.cs",
+              "RelativeDocumentMoniker": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTHomeController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTk22cnt3-lession111DB-2210900065\\NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTHomeController.cs",
+              "RelativeToolTip": "NLDTk22cnt3-lession111DB-2210900065\\Controllers\\NLDTHomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:23:00.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
